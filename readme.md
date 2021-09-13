@@ -1,10 +1,10 @@
-#Assignment2- Git CLI and First Website
+# Assignment2- Git CLI and First Website
 Task :Create a website and host in Git Hub, Create a Readme.md file and add the link of the website in there
 
-##Website Link
+## Website Link
 https://njitvjk.github.io/FirstWebSite/
 
-##Screenshots 
+## Screenshots 
 The following screen shots are captured from GIT CLI with Linux,vi and Git commands. It will also show that a local repo has been created and the index.html file has been moved to the Git Hub through CLI
 ![GIT CLI-1](https://user-images.githubusercontent.com/90334123/133146891-98ad2a53-e807-4f5b-8ec1-409a98f5e49c.JPG)
 ![GIT CLI-2](https://user-images.githubusercontent.com/90334123/133146896-f1414cf4-675e-450c-afe6-780536c5a6b9.JPG)
